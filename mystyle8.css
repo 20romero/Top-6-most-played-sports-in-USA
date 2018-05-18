@@ -12,9 +12,7 @@ color:white;
 text-align:center;
 text-transform:uppercase;
 }	
-p {
-text-align:center	
-}
+
 li {
 float:left;
 }	
@@ -30,8 +28,12 @@ hr {
 border:solid;
 color:black;
 }
+
+font-family:Times New Roman;
+}
+
 .topnav {
-  overflow:semi-condensed;
+  overflow:hidden;
   background-color:;
 }
 
@@ -45,7 +47,7 @@ color:black;
 }
 
 .topnav a:hover {
-  background-color:black;
+  background-color:Black;
   color:#ffd700;
 }
 
@@ -53,16 +55,3 @@ color:black;
   background-color:#4CAF50;
   color: white;
 }
-button { 
-    font-size: 1.1em;
-    background-color: black;
-    color: yellow;
-    border: 2px solid black;
-    box-shadow: 4px 4px 4px #999999;
-  }
-  button:hover, button:focus, button:active { 
-    /* swap colors */
-    color: yellow;
-    background-color: black;
-    cursor: pointer; /* displays a hand */
-  }

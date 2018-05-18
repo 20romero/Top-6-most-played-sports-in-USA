@@ -12,9 +12,7 @@ color:white;
 text-align:center;
 text-transform:uppercase;
 }	
-p {
-text-align:center	
-}
+
 li {
 float:left;
 }	
@@ -30,11 +28,6 @@ hr {
 border:solid;
 color:black;
 }
-.topnav {
-  overflow:semi-condensed;
-  background-color:;
-}
-
 .topnav a {
   float: center;
   color:black;
@@ -53,16 +46,3 @@ color:black;
   background-color:#4CAF50;
   color: white;
 }
-button { 
-    font-size: 1.1em;
-    background-color: black;
-    color: yellow;
-    border: 2px solid black;
-    box-shadow: 4px 4px 4px #999999;
-  }
-  button:hover, button:focus, button:active { 
-    /* swap colors */
-    color: yellow;
-    background-color: black;
-    cursor: pointer; /* displays a hand */
-  }
