@@ -1,5 +1,6 @@
 body {
-background-color:#0abab5;
+background-color:#D3D3D3;
+font-family:Time New Roman;
 }
 h1 { 
 color:black;
@@ -12,7 +13,6 @@ color:white;
 text-align:center;
 text-transform:uppercase;
 }	
-
 li {
 float:left;
 }	
@@ -28,13 +28,8 @@ hr {
 border:solid;
 color:black;
 }
-
-font-family:Times New Roman;
-}
-
 .topnav {
   overflow:hidden;
-  background-color:;
 }
 
 .topnav a {
@@ -55,3 +50,56 @@ font-family:Times New Roman;
   background-color:#4CAF50;
   color: white;
 }
+td {
+    color::#4CAF50;
+    text-align:center;
+}
+
+td {
+    font-family: Times New Roman;
+    font-size: 20px;
+	text-align:center;
+} 
+
+th {
+    color:black;
+    text-align:center;
+	font-size:25px;
+}	
+
+
+caption {
+    color:black;
+	text-align:center;
+    font-size:30px;
+
+} 
+th { 
+    background-color:#A9A9A9;
+ 
+    padding: 1em;
+    border-width: 1px; 
+    border-style: solid;
+    border-color:white;
+    margin: 10px !important;
+   }   
+td { 
+    background-color:#A9A9A9;
+ 
+    padding: 1em;
+    border-width: 1px; 
+    border-style: solid;
+    border-color:white;
+    margin: 10px !important;
+   }   
+
+
+
+
+
+
+
+
+
+
+

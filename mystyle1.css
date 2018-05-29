@@ -1,5 +1,5 @@
 body {
-background-color:#0abab5;
+background-color:#D3D3D3;
 }
 h1 { 
 color:black;
@@ -24,7 +24,7 @@ text-align:center;
 p {
 text-align:center;
 font-family:Times new roman;
-font-size:25px;
+font-size:30px;
 }
 hr {
 border:solid;
@@ -32,7 +32,6 @@ color:black;
 }
 .topnav {
   overflow:semi-condensed;
-  background-color:;
 }
 
 .topnav a {
@@ -56,13 +55,13 @@ color:black;
 button { 
     font-size: 1.1em;
     background-color: black;
-    color: yellow;
+    color:white;
     border: 2px solid black;
     box-shadow: 4px 4px 4px #999999;
   }
   button:hover, button:focus, button:active { 
     /* swap colors */
-    color: yellow;
-    background-color: black;
+    color:black;
+    background-color:white;
     cursor: pointer; /* displays a hand */
   }
